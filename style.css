@@ -1,0 +1,11 @@
+main {
+    max-width: 1024px;
+    margin: auto;
+    background-color: #cccccc;
+    text-align: center;
+}
+
+img {
+    box-sizing: border-box;
+    width: 100%;
+}
